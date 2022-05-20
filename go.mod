@@ -1,3 +1,3 @@
-module github.com/Zleo-bug/golangtest
+module bytedance/golangtest
 
 go 1.17
